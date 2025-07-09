@@ -1,5 +1,16 @@
+# 🎮 ZRPC – Discord Rich Presence Launcher
+
 ZRPC is a simple and powerful tool to customize your Discord Rich Presence status using a GUI.  
 You can show what you're doing (like playing GTA 6, coding, or listening to music) — no programming required.
+
+---
+
+### 🔄 ZRPC v1.1 Update
+- Support for **hours, minutes, or seconds** input  
+- **Description lines optional**  
+- **End time removed** for simplicity  
+- **Auto timestamp conversion**  
+- Minor GUI improvements
 
 ---
 
@@ -27,22 +38,22 @@ You can show what you're doing (like playing GTA 6, coding, or listening to musi
 
 ## 💡 What Each Field Means
 
-| Field                  | Description                                 |
-|------------------------|---------------------------------------------|
-| ClientID               | Your App's Client ID                        |
-| Description Line 1     | Main title (e.g. Playing GTA 6)             |
-| Description Line 2     | Subtitle (e.g. Story Mode - 87% Complete)   |
-| Hours Ago              | How long ago activity started               |
-| LargeImage             | Name of large image asset                   |
-| SmallImage             | (Optional) Name of small image              |
-| Tooltips               | Hover text for images                       |
+| Field                | Description                                 |
+|----------------------|---------------------------------------------|
+| ClientID             | Your App's Client ID                        |
+| Description Line 1   | Main title (e.g. Playing GTA 6)             |
+| Description Line 2   | Subtitle (e.g. Story Mode - 87% Complete)   |
+| Hours Ago            | How long ago activity started               |
+| LargeImage           | Name of large image asset                   |
+| SmallImage           | (Optional) Name of small image              |
+| Tooltips             | Hover text for images                       |
 
 ---
 
 ## 📝 Profiles
 
 - ZRPC lets you **save multiple profiles**
-- They are stored in `profiles/` folder as `.ini` files
+- They are stored in the `profiles/` folder as `.ini` files
 - You can load, edit, and relaunch them anytime
 
 ---
@@ -68,4 +79,4 @@ No Discord token or login is ever required.
 
 ## 🧑‍💻 Credits
 
-Made with ❤️ by Zartasht 
+Made with ❤️ by **Zartasht**
