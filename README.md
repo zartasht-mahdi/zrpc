@@ -1,23 +1,3 @@
-  ZRPC v1.1 Update – Quality of Life & Simplicity Boost!
-ZRPC v1.1 brings a smoother, smarter experience for setting up your Discord Rich Presence. This update focuses on ease of use, time handling, and a cleaner interface.
-
-✅ What’s New:
-🕒 Simplified Time Input:
-Set how long ago you started playing using Hours, Minutes, or Seconds — no need to manually calculate Unix timestamps anymore.
-
-✍️ Description Lines Now Optional:
-Both Description Line 1 and Line 2 are now optional, keeping things clean for simpler profiles.
-
-🧠 Auto Timestamp Conversion:
-Time gets automatically converted when saving or launching — no button presses needed.
-
-🚫 End Time Removed:
-No more confusing "EndTimestamp" — cleaner and more realistic for most use cases.
-
-🎨 Cleaner GUI:
-Minor visual tweaks and better layout for a more user-friendly experience.
-# ZRPC - Discord Rich Presence Launcher (No Python Needed!)
-
 ZRPC is a simple and powerful tool to customize your Discord Rich Presence status using a GUI.  
 You can show what you're doing (like playing GTA 6, coding, or listening to music) — no programming required.
 
